@@ -1,4 +1,4 @@
-# Spectral-Forecast
+# Spectral Forecast
 Echipa formata din Calin Razvan si Suteu Mihaela, grupa 1241F
 -------------------------------------------------------------------------------------------------------
 An implementation after Paul A. Gagniuc et al. Spectral Forecast: A general purpose prediction model as
