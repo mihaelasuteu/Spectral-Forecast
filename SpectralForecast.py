@@ -73,6 +73,7 @@ def computeS():
         aux3 = dotProduct(M[di], M[di])
 
         S.append((aux1 * aux1) / (aux2 * aux3))
+        print(S)
 
     plt.plot(S)
     plt.ylabel('Probability')
